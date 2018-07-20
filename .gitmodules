@@ -1,0 +1,3 @@
+[submodule "parsl-containers/edit_axondeepseg"]
+	path = parsl-containers/edit_axondeepseg
+	url = https://github.com/sagoyal2/edit_axondeepseg.git
